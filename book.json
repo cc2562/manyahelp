@@ -1,0 +1,23 @@
+{
+    "plugins": [
+        "highlight"
+    ],
+    "pluginsConfig": {
+        "theme-default": {
+            "auto_open": true,
+            "show_nav": true,
+            "logo": [],
+            "navs": [
+                {
+                    "title": "官网",
+                    "url": "https://mc.manya.moe/",
+                    "target": true
+                }
+            ]
+        }
+    },
+    "id": 496077,
+    "title": "ManYaMoe 文档",
+    "description": "",
+    "cover": "cover.jpg"
+}
